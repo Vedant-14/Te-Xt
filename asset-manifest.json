@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Te-Xt/static/css/main.f855e6bc.css",
+    "main.js": "/Te-Xt/static/js/main.25a28239.js",
+    "static/js/787.ef22139f.chunk.js": "/Te-Xt/static/js/787.ef22139f.chunk.js",
+    "index.html": "/Te-Xt/index.html",
+    "main.f855e6bc.css.map": "/Te-Xt/static/css/main.f855e6bc.css.map",
+    "main.25a28239.js.map": "/Te-Xt/static/js/main.25a28239.js.map",
+    "787.ef22139f.chunk.js.map": "/Te-Xt/static/js/787.ef22139f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.25a28239.js"
+  ]
+}
